@@ -7,3 +7,6 @@ Se realizó el profiling
 
 ![unittest](https://imgur.com/QBc3kX7.png)
 Y se realizó el Unittest con dos pruebas, una de valor y una de tipo.
+
+Acá un video del fucnionamiento del programa y los test realizados:
+https://youtu.be/2J4eHy0QjR4
